@@ -482,22 +482,22 @@
   "chapterDescriptions": [
     {
       "slug": "the-phlip-side",
-      "title": "What is The PHlip-side?",
+      "title": "The PHlip-side",
       "markdownPath": "content/pages/chapter-descriptions/the-phlip-side.md"
     },
     {
       "slug": "scleroderma-foundation-of-greater-chicago",
-      "title": "What is Beyond the Column?",
+      "title": "Beyond the Column",
       "markdownPath": "content/pages/chapter-descriptions/beyond-the-column.md"
     },
     {
       "slug": "rants-of-the-psyche",
-      "title": "What You'll Find Inside:",
+      "title": "Rants of the Psyche",
       "markdownPath": "content/pages/chapter-descriptions/rants-in-writing.md"
     },
     {
       "slug": "tips-tricks",
-      "title": "What You'll Find Inside:",
+      "title": "Tips & Tricks",
       "markdownPath": "content/pages/chapter-descriptions/tips-tricks.md"
     }
   ],
