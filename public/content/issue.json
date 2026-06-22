@@ -1,0 +1,1168 @@
+{
+  "schemaVersion": "2.0.0",
+  "issueId": "the-words-we-carry-volume-1",
+  "title": "The Words We Carry",
+  "updated": "2026-06-22",
+  "source": {
+    "type": "github",
+    "owner": "Joliel21",
+    "repo": "bta_public",
+    "branch": "main",
+    "baseRawUrl": "https://raw.githubusercontent.com/Joliel21/bta_public/main/public/",
+    "githubPagesUrl": "https://joliel21.github.io/bta_public/"
+  },
+  "runtime": {
+    "background": "https://breathtakingawareness.com/wp-content/uploads/2025/12/Wood-Digital-Scrapbook-Paper-9.png",
+    "brandingEnabled": true,
+    "logoLight": "https://breathtakingawareness.com/wp-content/uploads/2025/09/cropped-logo-watermark.png",
+    "logoDark": "https://breathtakingawareness.com/wp-content/uploads/2024/09/cropped-cropped-cropped-bta-logo-1-1.jpg"
+  },
+  "publication": {
+    "title": "Breathtaking Awareness",
+    "subtitle": "The Words We Carry",
+    "displayTitle": "Breathtaking Awareness • The Words We Carry"
+  },
+  "music": {
+    "enabled": true,
+    "tracks": [
+      {
+        "id": "the-mountain-warm-storytelling",
+        "name": "Pages at Dusk",
+        "type": "Storytelling",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/the_mountain-warm-storytelling-512283.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "the_mountain"
+      },
+      {
+        "id": "the-mountain-violin",
+        "name": "Quiet Strings",
+        "type": "Instrumental",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/the_mountain-violin-513168.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "the_mountain"
+      },
+      {
+        "id": "the-mountain-instrumental-ambient",
+        "name": "Open Air",
+        "type": "Ambient",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/the_mountain-instrumental-ambient-443538.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "the_mountain"
+      },
+      {
+        "id": "relaxingtime-relaxing-music-vol1",
+        "name": "Soft Landing",
+        "type": "Relaxing",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/relaxingtime-relaxing-music-vol1-124477.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "relaxingtime"
+      },
+      {
+        "id": "paulyudin-documentary",
+        "name": "Documentary Calm",
+        "type": "Documentary",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/paulyudin-documentary-513010.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "paulyudin"
+      },
+      {
+        "id": "leberch-yoga",
+        "name": "Slow Breath",
+        "type": "Calm",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/leberch-yoga-509709.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "leberch"
+      },
+      {
+        "id": "leberch-meditation",
+        "name": "Still Water",
+        "type": "Meditation",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/leberch-meditation-513747.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "leberch"
+      },
+      {
+        "id": "leberch-inspiring",
+        "name": "Forward Light",
+        "type": "Inspiring",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/leberch-inspiring-511351.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "leberch"
+      },
+      {
+        "id": "leberch-atmospheric-documentary",
+        "name": "Deep Focus",
+        "type": "Documentary",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/leberch-atmospheric-documentary-509386.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "leberch"
+      },
+      {
+        "id": "joyinsound-breath-of-renewal",
+        "name": "Breath of Renewal",
+        "type": "Atmospheric",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/joyinsound-breath-of-renewal-386056.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "joyinsound"
+      },
+      {
+        "id": "joyinsound-ancient-ritual-flame",
+        "name": "Ritual Flame",
+        "type": "Atmospheric",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/joyinsound-ancient-ritual-flame-386048.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "joyinsound"
+      },
+      {
+        "id": "innertune-relaxing-birds-and-piano",
+        "name": "Birdsong Piano",
+        "type": "Nature Piano",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/innertune-relaxing-birds-and-piano-music-137153.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "innertune"
+      },
+      {
+        "id": "grand-project-soul-of-the-earth",
+        "name": "Earth Echo",
+        "type": "Ambient",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/grand_project-soul-of-the-earth_15min-391198.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "grand_project"
+      },
+      {
+        "id": "atlasaudio-relax",
+        "name": "Quiet Room",
+        "type": "Relaxing",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/atlasaudio-relax-511892.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "atlasaudio"
+      },
+      {
+        "id": "atlasaudio-emotions",
+        "name": "Gentle Emotion",
+        "type": "Emotional",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/atlasaudio-emotions-511881.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "atlasaudio"
+      },
+      {
+        "id": "alex-morgan-zen-garden-stillness",
+        "name": "Garden Stillness",
+        "type": "Meditation",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/alex-morgan-zen-garden-stillness-537457.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "Alex Morgan"
+      },
+      {
+        "id": "alex-morgan-no-copyright-music",
+        "name": "Clear Horizon",
+        "type": "Ambient",
+        "url": "https://breathtakingawareness.com/wp-content/uploads/2026/06/alex-morgan-no-copyright-music-528321.mp3",
+        "license": "Verify and retain original license terms before final publication.",
+        "source": "WordPress Media Library",
+        "attribution": "Alex Morgan"
+      }
+    ]
+  },
+  "readerContext": {
+    "issue": {
+      "issueTitle": "Breathtaking Awareness",
+      "spineText": "The Words We Carry • Volume I • 2025–2026",
+      "publisher": "Breathtaking Awareness",
+      "issueNumber": "Volume I",
+      "publicationDate": "2025–2026"
+    },
+    "cover": {
+      "brandLine1": "Breathtaking",
+      "brandLine2": "Awareness",
+      "title": "The Words We Carry",
+      "volume": "Volume I",
+      "logoUrl": "https://raw.githubusercontent.com/Joliel21/bta_public/main/public/images/brand/Cover_Logo.png",
+      "logoAlt": "Breathtaking Awareness Logo"
+    },
+    "backCover": {
+      "authorName": "Jolie Lizana",
+      "authorImageUrl": "https://raw.githubusercontent.com/Joliel21/bta_public/main/public/images/author/jolie-bday-dinner.jpg",
+      "authorImageAlt": "Jolie Lizana",
+      "bio": "Jolie Lizana is a patient advocate, writer, and speaker. She lives with pulmonary hypertension, heart failure, and systemic sclerosis. Jolie advocates for invisible, chronic, and rare diseases. Her medical and communication studies background gives her a two-point perspective and the communication skills needed to help bridge gaps between doctors and patients.\n\nAs the founder of Breathtaking Awareness, Jolie works to empower the pulmonary hypertension (PH) community through awareness, advocacy, education, and support. The platform helps people find resources, guidance, and community while recognizing their potential to advocate, connect, and support others by sharing their experiences, skills, and passions.",
+      "buttonText": "Sign Up for Updates",
+      "buttonUrl": "https://subscribepage.io/breathtaking-awareness",
+      "supportLine": "Future issues, article updates, podcast news, and advocacy resources."
+    },
+    "topBar": {
+      "brandLabel": "Breathtaking Awareness",
+      "logoUrl": "https://raw.githubusercontent.com/Joliel21/bta_public/main/public/images/brand/gold-logo.png",
+      "logoAlt": "Breathtaking Awareness"
+    }
+  },
+  "rules": {
+    "wordpressFirst": true,
+    "githubFallback": true,
+    "preserveReaderVisuals": true,
+    "allowBeforeAfterReplaceHide": true,
+    "allowClickableItems": true,
+    "allowMediaEmbeds": true,
+    "allowAnalyticsMetadata": true,
+    "allowBackMatterPages": true,
+    "figmaUsesGithubOnly": true,
+    "contentTruth": "public/content/issue.json",
+    "localFallbackContentAllowed": false
+  },
+  "frontMatterPages": [
+    {
+      "id": "inside-front-cover-page",
+      "pageNumber": 0,
+      "layoutId": "inside-cover",
+      "alt": "Editorial notice, disclaimer, publication information, and copyright",
+      "blocks": [
+        {
+          "type": "markdown",
+          "content": "",
+          "_id": "md-inside-front-cover-page"
+        }
+      ],
+      "markdownPath": "content/pages/front-matter/inside-front-cover.md"
+    },
+    {
+      "id": "front-opener-page",
+      "layoutId": "article-text-layout",
+      "alt": "Breathtaking Awareness: The Words We Carry opening page",
+      "toc": {
+        "id": "toc-front-opener",
+        "title": "The Words We Carry",
+        "level": 0
+      },
+      "blocks": [
+        {
+          "type": "markdown",
+          "content": "",
+          "_id": "md-front-opener-page"
+        }
+      ],
+      "markdownPath": "content/pages/front-matter/front-opener.md"
+    },
+    {
+      "id": "locked-blank-before-dear-reader-page",
+      "layoutId": "article-text-layout",
+      "alt": "Locked blank page before Dear Reader",
+      "preserveIfBlank": true,
+      "blocks": [
+        {
+          "type": "markdown",
+          "content": "",
+          "_id": "md-locked-blank-before-dear-reader-page"
+        }
+      ]
+    },
+    {
+      "id": "welcome-to-breathtaking-awareness",
+      "layoutId": "article-text-layout",
+      "alt": "Welcome to Breathtaking Awareness",
+      "toc": {
+        "id": "toc-welcome",
+        "title": "Welcome to Breathtaking Awareness",
+        "level": 0
+      },
+      "blocks": [
+        {
+          "type": "markdown",
+          "content": "",
+          "_id": "md-welcome-to-breathtaking-awareness"
+        }
+      ],
+      "markdownPath": "content/pages/front-matter/welcome-to-breathtaking-awareness.md"
+    },
+    {
+      "id": "about-breathtaking-awareness-page",
+      "layoutId": "article-text-layout",
+      "alt": "About Breathtaking Awareness",
+      "toc": {
+        "id": "toc-about-breathtaking-awareness",
+        "title": "About Breathtaking Awareness",
+        "level": 0
+      },
+      "blocks": [
+        {
+          "type": "markdown",
+          "content": "",
+          "_id": "md-about-breathtaking-awareness-page"
+        }
+      ],
+      "markdownPath": "content/pages/front-matter/about-breathtaking-awareness.md"
+    },
+    {
+      "id": "mission-statement-page",
+      "layoutId": "article-text-layout",
+      "alt": "Mission Statement",
+      "toc": {
+        "id": "toc-mission-statement",
+        "title": "Mission Statement",
+        "level": 0
+      },
+      "blocks": [
+        {
+          "type": "markdown",
+          "content": "",
+          "_id": "md-mission-statement-page"
+        }
+      ],
+      "markdownPath": "content/pages/front-matter/mission-statement.md"
+    },
+    {
+      "id": "how-to-use-this-volume-page",
+      "layoutId": "article-text-layout",
+      "alt": "How to Use This Volume",
+      "toc": {
+        "id": "toc-how-to-use-this-volume",
+        "title": "How to Use This Volume",
+        "level": 0
+      },
+      "blocks": [
+        {
+          "type": "markdown",
+          "content": "",
+          "_id": "md-how-to-use-this-volume-page"
+        }
+      ],
+      "markdownPath": "content/pages/front-matter/how-to-use-this-volume.md"
+    },
+    {
+      "id": "volume-one-page",
+      "layoutId": "volume-one-page",
+      "alt": "Volume I introduction page",
+      "blocks": [
+        {
+          "type": "markdown",
+          "content": "",
+          "_id": "md-volume-one-page"
+        }
+      ],
+      "markdownPath": "content/pages/front-matter/volume-one.md"
+    },
+    {
+      "id": "whats-inside-left-page",
+      "layoutId": "whats-inside-left-page",
+      "alt": "What's Inside left page",
+      "blocks": [
+        {
+          "type": "markdown",
+          "content": "",
+          "_id": "md-whats-inside-left-page"
+        }
+      ],
+      "markdownPath": "content/pages/front-matter/whats-inside-left.md"
+    },
+    {
+      "id": "whats-inside-right-page",
+      "layoutId": "whats-inside-right-page",
+      "alt": "What's Inside contents page",
+      "blocks": [
+        {
+          "type": "contents-item",
+          "title": "Beyond the Column",
+          "body": "Scleroderma Foundation of Greater Chicago pieces and reflections beyond the PH News column.",
+          "page": "10",
+          "icon": "column",
+          "_id": "contents-beyond-the-column"
+        },
+        {
+          "type": "contents-item",
+          "title": "The PHlip-side",
+          "body": "Pulmonary Hypertension News columns, advocacy lessons, and lived-experience reflections.",
+          "page": "18",
+          "icon": "phlip",
+          "_id": "contents-the-phlip-side"
+        },
+        {
+          "type": "contents-item",
+          "title": "Rants in Writing",
+          "body": "Personal essays, identity, grief, mental health, and survival after the crisis quiets down.",
+          "page": "174",
+          "icon": "rants",
+          "_id": "contents-rants-in-writing"
+        },
+        {
+          "type": "contents-item",
+          "title": "Tips & Tricks",
+          "body": "Practical patient and caregiver support for daily life with pulmonary hypertension.",
+          "page": "206",
+          "icon": "tips",
+          "_id": "contents-tips-tricks"
+        },
+        {
+          "type": "contents-item",
+          "title": "About the Author",
+          "body": "Jolie Lizana, Breathtaking Awareness, and the work behind this volume.",
+          "target": "back-cover",
+          "icon": "author",
+          "_id": "contents-about-the-author"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The PHlip-side",
+      "slug": "the-phlip-side",
+      "coverImage": "",
+      "count": 19,
+      "articleIds": [
+        "i-learn-a-hard-lesson-about-traveling-with-pulmonary-hypertension",
+        "finding-confidence-community-and-care-at-specially-tailored-camps",
+        "im-learning-how-to-live-fully-not-just-survive-with-pulmonary-hypertension",
+        "legislative-advocacy-can-make-a-difference-for-ph-care",
+        "how-i-transitioned-from-an-iv-therapy-pump-to-oral-meds",
+        "grieving-the-mom-i-used-to-be-before-ph-entered-my-life",
+        "how-to-explain-the-complexities-of-pulmonary-hypertension-to-others",
+        "when-coexisting-conditions-complicate-our-health-strategy",
+        "being-mindful-of-good-moments-helps-me-through-difficult-times",
+        "advocating-for-the-ph-community-is-meaningful-work-it-helps-me-too",
+        "the-high-cost-of-time-spent-managing-a-chronic-illness",
+        "getting-through-the-fog-of-grief-to-see-clearly-on-the-other-side",
+        "a-ph-advocate-finds-hope-in-new-research-anxiety-at-the-airport",
+        "sticky-bras-are-good-for-the-heart",
+        "how-flashing-the-boobs-is-helping-to-save-womens-lives",
+        "why-a-day-of-rest-is-a-victory-with-pulmonary-hypertension",
+        "the-pandoras-box-of-making-plans-and-managing-friendships-with-ph",
+        "my-delayed-ph-diagnosis-reveals-a-lesson-in-claiming-victory-over-loss",
+        "since-my-pulmonary-hypertension-diagnosis-im-tragically-blessed"
+      ]
+    },
+    {
+      "title": "Scleroderma Foundation of Greater Chicago",
+      "slug": "scleroderma-foundation-of-greater-chicago",
+      "coverImage": "",
+      "count": 2,
+      "articleIds": [
+        "the-weight-of-staying-well-when-survival-mode-stops-being-sustainable",
+        "how-a-blank-canvas-helped-me-find-purpose"
+      ]
+    },
+    {
+      "title": "Rants of the Psyche",
+      "slug": "rants-of-the-psyche",
+      "coverImage": "",
+      "count": 4,
+      "articleIds": [
+        "lost-in-this-space",
+        "talking-mental",
+        "i-get-it",
+        "a-rant-about-passing-out-and-not-being-vigilant"
+      ]
+    },
+    {
+      "title": "Tips & Tricks",
+      "slug": "tips-tricks",
+      "coverImage": "",
+      "count": 4,
+      "articleIds": [
+        "housecleaning",
+        "doctors-visits-daily-health",
+        "running-errands-shopping",
+        "showering-with-ph"
+      ]
+    }
+  ],
+  "chapterDescriptions": [
+    {
+      "slug": "the-phlip-side",
+      "title": "What is The PHlip-side?",
+      "markdownPath": "content/pages/chapter-descriptions/the-phlip-side.md"
+    },
+    {
+      "slug": "scleroderma-foundation-of-greater-chicago",
+      "title": "What is Beyond the Column?",
+      "markdownPath": "content/pages/chapter-descriptions/beyond-the-column.md"
+    },
+    {
+      "slug": "rants-of-the-psyche",
+      "title": "What You'll Find Inside:",
+      "markdownPath": "content/pages/chapter-descriptions/rants-in-writing.md"
+    },
+    {
+      "slug": "tips-tricks",
+      "title": "What You'll Find Inside:",
+      "markdownPath": "content/pages/chapter-descriptions/tips-tricks.md"
+    }
+  ],
+  "articles": [
+    {
+      "id": "i-learn-a-hard-lesson-about-traveling-with-pulmonary-hypertension",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "I learn a hard lesson about traveling with pulmonary hypertension",
+      "subtitle": "I took a trip to advocate for others, but was reminded to self-advocate, too",
+      "date": "May 29, 2026",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/i-learn-a-hard-lesson-about-traveling-with-pulmonary-hypertension.md",
+      "images": [
+        {
+          "filename": "phlip-side/learned-a-hard-lesson-share.jpg",
+          "caption": "Jolie Lizana stands next to the steps of the U.S. Capitol during a recent trip to Washington D.C., to lobby on behalf of scleroderma patients. (Courtesy of Jolie Lizana)",
+          "alt": "A woman stands in front of the steps of the U.S. Capitol building."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "i-learn-a-hard-lesson-about-traveling-with-pulmonary-hypertension",
+      "wordpressContentId": "i-learn-a-hard-lesson-about-traveling-with-pulmonary-hypertension",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "finding-confidence-community-and-care-at-specially-tailored-camps",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "Finding confidence, community, and care at specially tailored camps",
+      "subtitle": "Camp del Corazon and others are for children with complex health conditions",
+      "date": "May 15, 2026",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/finding-confidence-community-and-care-at-specially-tailored-camps.md",
+      "images": [],
+      "status": "ready",
+      "imageStatus": "no image provided",
+      "wordpressSlug": "finding-confidence-community-and-care-at-specially-tailored-camps",
+      "wordpressContentId": "finding-confidence-community-and-care-at-specially-tailored-camps",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "im-learning-how-to-live-fully-not-just-survive-with-pulmonary-hypertension",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "I’m learning how to live fully, not just survive, with pulmonary hypertension",
+      "subtitle": "Finding ways to keep moving forward, even within the limits of PH",
+      "date": "April 10, 2026",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/im-learning-how-to-live-fully-not-just-survive-with-pulmonary-hypertension.md",
+      "images": [
+        {
+          "filename": "phlip-side/live-fully-dc-mural.jpg",
+          "caption": "Columnist Jolie Lizana spends time in Washington, D.C., after a day of advocacy in March 2026. (Courtesy of Jolie Lizana)",
+          "alt": "A woman wearing a yellow top and blue slacks smiles for a photo in an outdoor walkway with a colorful mural and pink and purple lanterns."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "im-learning-how-to-live-fully-not-just-survive-with-pulmonary-hypertension",
+      "wordpressContentId": "im-learning-how-to-live-fully-not-just-survive-with-pulmonary-hypertension",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "legislative-advocacy-can-make-a-difference-for-ph-care",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "Legislative advocacy can make a difference for PH care",
+      "subtitle": "I recently went to the US Capitol to support SOAR and Safe Step bills",
+      "date": "March 13, 2026",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/legislative-advocacy-can-make-a-difference-for-ph-care.md",
+      "images": [
+        {
+          "filename": "phlip-side/legislative-advocacy-us-capitol.jpg",
+          "caption": "Jolie Lizana recently visited the U.S. Capitol in Washington, D.C., to argue for two bills that would shape pulmonary hypertension care.",
+          "alt": "A closeup image of a woman standing in front of the U.S. Capitol."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "legislative-advocacy-can-make-a-difference-for-ph-care",
+      "wordpressContentId": "legislative-advocacy-can-make-a-difference-for-ph-care",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "how-i-transitioned-from-an-iv-therapy-pump-to-oral-meds",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "How I transitioned from an IV therapy pump to oral meds",
+      "subtitle": "The pump saved my life, but I’m grateful to have transitioned off it",
+      "date": "February 27, 2026",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/how-i-transitioned-from-an-iv-therapy-pump-to-oral-meds.md",
+      "images": [
+        {
+          "filename": "phlip-side/iv-pump-to-oral-state-capitol-2025.jpg",
+          "caption": "Jolie Lizana 2025 at State Capitol (Courtesy of Jolie Lizana)",
+          "alt": "A woman wearing glasses, a purple blouse, and black pants stands smiling by a decorative black and gold railing on a staircase with cream-colored walls."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "how-i-transitioned-from-an-iv-therapy-pump-to-oral-meds",
+      "wordpressContentId": "how-i-transitioned-from-an-iv-therapy-pump-to-oral-meds",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "grieving-the-mom-i-used-to-be-before-ph-entered-my-life",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "Grieving the mom I used to be before PH entered my life",
+      "subtitle": "It's hard not to notice the vast difference in my life then vs. now",
+      "date": "February 13, 2026",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/grieving-the-mom-i-used-to-be-before-ph-entered-my-life.md",
+      "images": [
+        {
+          "filename": "phlip-side/grieving-mom-state-park-2014.jpg",
+          "caption": "Jolie Lizana and her son, Zaylan, visit their local state park in 2014. (Courtesy of Jolie Lizana)",
+          "alt": "A woman squats down beside her son for a photo at their local state park. The boy is holding a stuffed tiger, and both are smiling at the camera."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "grieving-the-mom-i-used-to-be-before-ph-entered-my-life",
+      "wordpressContentId": "grieving-the-mom-i-used-to-be-before-ph-entered-my-life",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "how-to-explain-the-complexities-of-pulmonary-hypertension-to-others",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "How to explain the complexities of pulmonary hypertension to others",
+      "subtitle": "Understanding what's happening in our bodies can help us be better advocates",
+      "date": "January 30, 2026",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/how-to-explain-the-complexities-of-pulmonary-hypertension-to-others.md",
+      "images": [
+        {
+          "filename": "phlip-side/How-to-explain.jpg",
+          "caption": "Image paired with “How to explain the complexities of pulmonary hypertension to others.” (Courtesy of Jolie Lizana)",
+          "alt": "Image paired with Jolie Lizana’s article about explaining the complexities of pulmonary hypertension to others."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "how-to-explain-the-complexities-of-pulmonary-hypertension-to-others",
+      "wordpressContentId": "how-to-explain-the-complexities-of-pulmonary-hypertension-to-others",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "when-coexisting-conditions-complicate-our-health-strategy",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "When coexisting conditions complicate our health strategy",
+      "subtitle": "In addition to PH, I must now face a possible scleroderma diagnosis",
+      "date": "January 16, 2026",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/when-coexisting-conditions-complicate-our-health-strategy.md",
+      "images": [
+        {
+          "filename": "phlip-side/coexisting-conditions-pumpkin-display.jpg",
+          "caption": "Jolie Lizana sits among a fall pumpkin display. (Courtesy of Jolie Lizana)",
+          "alt": "A woman sits cross-legged among a fall display of pumpkins, gourds, hay, and autumn leaves."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "when-coexisting-conditions-complicate-our-health-strategy",
+      "wordpressContentId": "when-coexisting-conditions-complicate-our-health-strategy",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "being-mindful-of-good-moments-helps-me-through-difficult-times",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "Being mindful of good moments helps me through difficult times",
+      "subtitle": "A ‘time capsule’ was an early mindfulness technique to recall good times in my life",
+      "date": "December 12, 2025",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/being-mindful-of-good-moments-helps-me-through-difficult-times.md",
+      "images": [
+        {
+          "filename": "phlip-side/mindful-good-moments-holiday.jpg",
+          "caption": "Jolie Lizana and her son share a holiday moment. (Courtesy of Jolie Lizana)",
+          "alt": "A smiling woman in glasses hugs a smiling teenage boy in front of a decorated fireplace with stockings, greenery, snowflakes, and a clock."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "being-mindful-of-good-moments-helps-me-through-difficult-times",
+      "wordpressContentId": "being-mindful-of-good-moments-helps-me-through-difficult-times",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "advocating-for-the-ph-community-is-meaningful-work-it-helps-me-too",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "Advocating for the PH community is meaningful work; it helps me too",
+      "subtitle": "Thank you for reminding me that I am enough",
+      "date": "November 14, 2025",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/advocating-for-the-ph-community-is-meaningful-work-it-helps-me-too.md",
+      "images": [
+        {
+          "filename": "phlip-side/advocating-ph-community-support-rare.jpg",
+          "caption": "A PH advocate finds hope in new research, anxiety at the airport.",
+          "alt": "A person holds a sign that reads “Breathtaking Awareness, We Support Rare!” with a sunflower and purple ribbon in front of the U.S. Capitol building on a sunny day."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "advocating-for-the-ph-community-is-meaningful-work-it-helps-me-too",
+      "wordpressContentId": "advocating-for-the-ph-community-is-meaningful-work-it-helps-me-too",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "the-high-cost-of-time-spent-managing-a-chronic-illness",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "The high cost of time spent managing a chronic illness",
+      "subtitle": "Patients shouldn’t have to spend so much time on disease management",
+      "date": "October 24, 2025",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/the-high-cost-of-time-spent-managing-a-chronic-illness.md",
+      "images": [
+        {
+          "filename": "phlip-side/high-cost-phone-call.jpg",
+          "caption": "Living with a chronic, rare disease involves a lot of time on the phone. (Courtesy of Jolie Lizana)",
+          "alt": "A woman with glasses and dark hair, wearing a red patterned blouse and a smartwatch, sits on a black chair and talks on the phone."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "the-high-cost-of-time-spent-managing-a-chronic-illness",
+      "wordpressContentId": "the-high-cost-of-time-spent-managing-a-chronic-illness",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "getting-through-the-fog-of-grief-to-see-clearly-on-the-other-side",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "Getting through the fog of grief to see clearly on the other side",
+      "subtitle": "Having pulmonary hypertension helped teach me what matters most in life",
+      "date": "October 3, 2025",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/getting-through-the-fog-of-grief-to-see-clearly-on-the-other-side.md",
+      "images": [
+        {
+          "filename": "phlip-side/fog-of-grief-zaylan-apple-tree.jpg",
+          "caption": "In this photo from 2013, Jolie Lizana’s son, Zaylan, 5, smiles next to his painting of an apple tree. (Photo by Jolie Lizana)",
+          "alt": "A young boy in a white t-shirt smiles next to an easel displaying his colorful painting of a tree with red apples, green leaves, a blue sky, and a yellow sun."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "getting-through-the-fog-of-grief-to-see-clearly-on-the-other-side",
+      "wordpressContentId": "getting-through-the-fog-of-grief-to-see-clearly-on-the-other-side",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "a-ph-advocate-finds-hope-in-new-research-anxiety-at-the-airport",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "A PH advocate finds hope in new research, anxiety at the airport",
+      "subtitle": "Time at pulmonary hypertension symposium gave me a lot to think about",
+      "date": "September 26, 2025",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/a-ph-advocate-finds-hope-in-new-research-anxiety-at-the-airport.md",
+      "images": [
+        {
+          "filename": "phlip-side/Symposium.jpg",
+          "caption": "Image paired with “A PH advocate finds hope in new research, anxiety at the airport.” (Courtesy of Jolie Lizana)",
+          "alt": "Image paired with Jolie Lizana’s article about a pulmonary hypertension symposium and airport anxiety."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "a-ph-advocate-finds-hope-in-new-research-anxiety-at-the-airport",
+      "wordpressContentId": "a-ph-advocate-finds-hope-in-new-research-anxiety-at-the-airport",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "sticky-bras-are-good-for-the-heart",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "Sticky bras are good for the heart",
+      "subtitle": "The clothing choice that makes it easier for women to get emergency care",
+      "date": "September 12, 2025",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/sticky-bras-are-good-for-the-heart.md",
+      "images": [
+        {
+          "filename": "phlip-side/Nippies.png",
+          "caption": "Nippies image paired with “Sticky bras are good for the heart.” (Courtesy of Jolie Lizana)",
+          "alt": "Image of Nippies sticky bra product referenced in the article."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "sticky-bras-are-good-for-the-heart",
+      "wordpressContentId": "sticky-bras-are-good-for-the-heart",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "how-flashing-the-boobs-is-helping-to-save-womens-lives",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "How “flashing the boobs” is helping to save women’s lives",
+      "subtitle": "",
+      "date": "September 5, 2025",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/how-flashing-the-boobs-is-helping-to-save-womens-lives.md",
+      "images": [
+        {
+          "filename": "phlip-side/Jolie-Flash-the-boobs.png",
+          "caption": "Image paired with “How ‘flashing the boobs’ is helping to save women’s lives.” (Courtesy of Jolie Lizana)",
+          "alt": "Image paired with Jolie Lizana’s article about the Flash the Boobs campaign and women’s emergency heart care."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "how-flashing-the-boobs-is-helping-to-save-womens-lives",
+      "wordpressContentId": "how-flashing-the-boobs-is-helping-to-save-womens-lives",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "why-a-day-of-rest-is-a-victory-with-pulmonary-hypertension",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "Why a day of rest is a victory with pulmonary hypertension",
+      "subtitle": "Moments to relax are not an option when every activity can be a struggle",
+      "date": "August 15, 2025",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/why-a-day-of-rest-is-a-victory-with-pulmonary-hypertension.md",
+      "images": [
+        {
+          "filename": "phlip-side/rest-victory-reading.jpg",
+          "caption": "Columnist (Photo by: Jolie Lizana)",
+          "alt": "Jolie in polka dot top pajamas holds up and reads the book Stress-Free Productivity, partially covering her face in a softly lit room."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "why-a-day-of-rest-is-a-victory-with-pulmonary-hypertension",
+      "wordpressContentId": "why-a-day-of-rest-is-a-victory-with-pulmonary-hypertension",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "the-pandoras-box-of-making-plans-and-managing-friendships-with-ph",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "The Pandora’s box of making plans and managing friendships with PH",
+      "subtitle": "People stopped inviting me to things because of my unpredictable symptoms",
+      "date": "August 1, 2025",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/the-pandoras-box-of-making-plans-and-managing-friendships-with-ph.md",
+      "images": [
+        {
+          "filename": "phlip-side/pandoras-box-window-rain.jpg",
+          "caption": "Columnist Jolie Lizana gazes out into the world. (Photo by Zaylan)",
+          "alt": "A person wrapped in a striped blanket sits on a window seat, gazing out of a large window on a rainy day."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "the-pandoras-box-of-making-plans-and-managing-friendships-with-ph",
+      "wordpressContentId": "the-pandoras-box-of-making-plans-and-managing-friendships-with-ph",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "my-delayed-ph-diagnosis-reveals-a-lesson-in-claiming-victory-over-loss",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "My delayed PH diagnosis reveals a lesson in claiming victory over loss",
+      "subtitle": "I wonder what could’ve been had I refused to accept ‘no’ as an answer",
+      "date": "July 25, 2025",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/my-delayed-ph-diagnosis-reveals-a-lesson-in-claiming-victory-over-loss.md",
+      "images": [
+        {
+          "filename": "phlip-side/claiming-victory-columnist-graphic.jpg",
+          "caption": "Columnist (Graphic by Jolie Lizana)",
+          "alt": "Jolie is wearing glasses and a coral shirt, resting her chin on her hand and looking thoughtful. The background is an illustrated sky with fluffy white clouds."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "my-delayed-ph-diagnosis-reveals-a-lesson-in-claiming-victory-over-loss",
+      "wordpressContentId": "my-delayed-ph-diagnosis-reveals-a-lesson-in-claiming-victory-over-loss",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "since-my-pulmonary-hypertension-diagnosis-im-tragically-blessed",
+      "chapter": "The PHlip-side",
+      "chapterSlug": "the-phlip-side",
+      "title": "Since my pulmonary hypertension diagnosis, I’m tragically blessed",
+      "subtitle": "In her debut, a new columnist learns of her disease and takes the next steps",
+      "date": "July 11, 2025",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/the-phlip-side/since-my-pulmonary-hypertension-diagnosis-im-tragically-blessed.md",
+      "images": [
+        {
+          "filename": "phlip-side/blessed.png",
+          "caption": "A flier of sorts introduces Jolie Lizana, a new columnist for Pulmonary Hypertension News, and her son, Zaylan. (Image by: Jolie Lizana)",
+          "alt": "A flyer introducing Jolie Lizana, a PH columnist, with two photos: one of Jolie and her son Zaylan at a school event, and another of them at the U.S. Capitol."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "since-my-pulmonary-hypertension-diagnosis-im-tragically-blessed",
+      "wordpressContentId": "since-my-pulmonary-hypertension-diagnosis-im-tragically-blessed",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "the-weight-of-staying-well-when-survival-mode-stops-being-sustainable",
+      "chapter": "Scleroderma Foundation of Greater Chicago",
+      "chapterSlug": "scleroderma-foundation-of-greater-chicago",
+      "title": "The Weight of Staying Well: When Survival Mode Stops Being Sustainable",
+      "subtitle": "",
+      "date": "May 19, 2026; updated May 27, 2026",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/scleroderma-foundation-of-greater-chicago/the-weight-of-staying-well-when-survival-mode-stops-being-sustainable.md",
+      "images": [],
+      "status": "ready",
+      "wordpressSlug": "the-weight-of-staying-well-when-survival-mode-stops-being-sustainable",
+      "wordpressContentId": "the-weight-of-staying-well-when-survival-mode-stops-being-sustainable",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "how-a-blank-canvas-helped-me-find-purpose",
+      "chapter": "Scleroderma Foundation of Greater Chicago",
+      "chapterSlug": "scleroderma-foundation-of-greater-chicago",
+      "title": "How a Blank Canvas Helped Me Find Purpose",
+      "subtitle": "",
+      "date": "January 5, 2026",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/scleroderma-foundation-of-greater-chicago/how-a-blank-canvas-helped-me-find-purpose.md",
+      "images": [
+        {
+          "filename": "scleroderma-foundation-of-greater-chicago/blank-canvas-purpose.jpg",
+          "caption": "Image paired with “How a Blank Canvas Helped Me Find Purpose.” (Courtesy of Jolie Lizana)",
+          "alt": "Jolie Lizana sits among a fall display of pumpkins, gourds, hay, and autumn leaves."
+        }
+      ],
+      "status": "ready",
+      "wordpressSlug": "how-a-blank-canvas-helped-me-find-purpose",
+      "wordpressContentId": "how-a-blank-canvas-helped-me-find-purpose",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "lost-in-this-space",
+      "chapter": "Rants of the Psyche",
+      "chapterSlug": "rants-of-the-psyche",
+      "title": "Lost in this Space",
+      "subtitle": "Being alive, but not living, will never be easy.",
+      "date": "",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/rants-of-the-psyche/lost-in-this-space.md",
+      "images": [],
+      "status": "ready",
+      "imageStatus": "no image provided",
+      "wordpressSlug": "lost-in-this-space",
+      "wordpressContentId": "lost-in-this-space",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "talking-mental",
+      "chapter": "Rants of the Psyche",
+      "chapterSlug": "rants-of-the-psyche",
+      "title": "Talking Mental",
+      "subtitle": "Mental health plays a significant role in our healing journey.",
+      "date": "",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/rants-of-the-psyche/talking-mental.md",
+      "images": [],
+      "status": "ready",
+      "imageStatus": "no image provided",
+      "wordpressSlug": "talking-mental",
+      "wordpressContentId": "talking-mental",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "i-get-it",
+      "chapter": "Rants of the Psyche",
+      "chapterSlug": "rants-of-the-psyche",
+      "title": "I Get It!",
+      "subtitle": "Surviving the first couple of years after diagnosis.",
+      "date": "",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/rants-of-the-psyche/i-get-it.md",
+      "images": [],
+      "status": "ready",
+      "imageStatus": "no image provided",
+      "wordpressSlug": "i-get-it",
+      "wordpressContentId": "i-get-it",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "a-rant-about-passing-out-and-not-being-vigilant",
+      "chapter": "Rants of the Psyche",
+      "chapterSlug": "rants-of-the-psyche",
+      "title": "A Rant About Passing Out and Not Being Vigilant",
+      "subtitle": "",
+      "date": "",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/rants-of-the-psyche/a-rant-about-passing-out-and-not-being-vigilant.md",
+      "images": [],
+      "status": "ready",
+      "imageStatus": "no image provided",
+      "wordpressSlug": "a-rant-about-passing-out-and-not-being-vigilant",
+      "wordpressContentId": "a-rant-about-passing-out-and-not-being-vigilant",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "housecleaning",
+      "chapter": "Tips & Tricks",
+      "chapterSlug": "tips-tricks",
+      "title": "Housecleaning",
+      "subtitle": "House Cleaning Tips and Tricks",
+      "date": "September 16, 2025",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/tips-tricks/housecleaning.md",
+      "images": [],
+      "status": "ready",
+      "imageStatus": "no image provided",
+      "wordpressSlug": "housecleaning",
+      "wordpressContentId": "housecleaning",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "doctors-visits-daily-health",
+      "chapter": "Tips & Tricks",
+      "chapterSlug": "tips-tricks",
+      "title": "Doctor’s Visits & Daily Health",
+      "subtitle": "Tips and tricks to help make visits easy",
+      "date": "September 16, 2025",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/tips-tricks/doctors-visits-daily-health.md",
+      "images": [],
+      "status": "ready",
+      "imageStatus": "no image provided",
+      "wordpressSlug": "doctors-visits-daily-health",
+      "wordpressContentId": "doctors-visits-daily-health",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "running-errands-shopping",
+      "chapter": "Tips & Tricks",
+      "chapterSlug": "tips-tricks",
+      "title": "Running Errands/Shopping",
+      "subtitle": "Here are some tips and tricks I use to help manage PH symptoms.",
+      "date": "September 16, 2025",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/tips-tricks/running-errands-shopping.md",
+      "images": [],
+      "status": "ready",
+      "imageStatus": "no image provided",
+      "wordpressSlug": "running-errands-shopping",
+      "wordpressContentId": "running-errands-shopping",
+      "wordpressSource": "the-words-we-carry-content"
+    },
+    {
+      "id": "showering-with-ph",
+      "chapter": "Tips & Tricks",
+      "chapterSlug": "tips-tricks",
+      "title": "Showering with PH",
+      "subtitle": "Showering can be exhausting. With long hair and IV pumps, it’s even more challenging.",
+      "date": "September 16, 2025",
+      "byline": "Jolie Lizana",
+      "markdownPath": "content/articles/tips-tricks/showering-with-ph.md",
+      "images": [],
+      "status": "ready",
+      "imageStatus": "no image provided",
+      "wordpressSlug": "showering-with-ph",
+      "wordpressContentId": "showering-with-ph",
+      "wordpressSource": "the-words-we-carry-content"
+    }
+  ],
+  "adPages": [
+    {
+      "id": "bta-signup-ad-legislative-advocacy",
+      "type": "ad",
+      "source": "github",
+      "layoutId": "breathtaking-awareness-ad",
+      "title": "Breathtaking Awareness",
+      "eyebrow": "Breathtaking Awareness",
+      "headline": "Advocate. Save a Life.",
+      "subheadline": "Sign up for the Monthly Newsletter or Meetings",
+      "buttonText": "Sign-up",
+      "buttonUrl": "https://breathtakingawareness.com/sign-up/",
+      "footer": "Education • Advocacy • Support • Storytelling",
+      "placement": {
+        "afterArticleId": "legislative-advocacy-can-make-a-difference-for-ph-care"
+      },
+      "analytics": {
+        "category": "bta-internal-ad",
+        "label": "BTA Sign-up Ad"
+      }
+    }
+  ],
+  "backMatterPages": [
+    {
+      "id": "inside-back-cover",
+      "type": "inside-back-cover",
+      "source": "github",
+      "title": "Carry This Forward",
+      "layoutId": "inside-back-cover",
+      "markdownPath": "content/pages/back-matter/inside-back-cover.md",
+      "alt": "Inside back cover with closing note, sign-up invitation, connection links, and copyright notice",
+      "toc": false,
+      "placement": {
+        "before": "back-cover"
+      },
+      "buttonText": "Sign Up for Updates",
+      "buttonUrl": "https://breathtakingawareness.com/sign-up/",
+      "links": [
+        {
+          "label": "Sign Up for Updates",
+          "url": "https://breathtakingawareness.com/sign-up/",
+          "ariaLabel": "Sign up for Breathtaking Awareness updates",
+          "analyticsEvent": "signup_clicked"
+        },
+        {
+          "label": "Visit Breathtaking Awareness",
+          "url": "https://breathtakingawareness.com/",
+          "ariaLabel": "Visit the Breathtaking Awareness website",
+          "analyticsEvent": "link_clicked"
+        },
+        {
+          "label": "Contact for permissions",
+          "url": "mailto:Jolie@BreathtakingAwareness.com",
+          "ariaLabel": "Email Jolie Lizana for permissions",
+          "analyticsEvent": "permissions_contact_clicked"
+        }
+      ],
+      "analytics": {
+        "label": "Inside Back Cover",
+        "category": "back-matter"
+      }
+    }
+  ],
+  "placementRules": [],
+  "overrides": [],
+  "pageTypes": [
+    "article",
+    "page",
+    "front-matter",
+    "chapter-opener",
+    "ad",
+    "sponsor",
+    "video",
+    "podcast",
+    "media-page",
+    "share",
+    "custom",
+    "inside-back-cover",
+    "back-matter",
+    "sign-up",
+    "button",
+    "link"
+  ],
+  "rights": {
+    "copyrightOwner": "Jolie Lizana / Breathtaking Awareness",
+    "permissionsEmail": "Jolie@BreathtakingAwareness.com",
+    "license": "All rights reserved"
+  },
+  "legacySourceFiles": {
+    "mergedIntoThisFile": [
+      "public/content/magazine-manifest.json",
+      "public/content/front-matter.json",
+      "public/content/chapter-descriptions.json",
+      "public/content/chapters.json",
+      "public/content/articles.json",
+      "public/publish_manifest.json"
+    ],
+    "note": "New apps should read issue.json only. These old split JSON files are intentionally not included in this clean repo package."
+  },
+  "wordpress": {
+    "enabled": true,
+    "articleSource": "https://breathtakingawareness.com/wp-json/the-words-we-carry-content/v1/magazine",
+    "matchingRule": "WordPress post slug and _twwc_content_id must match GitHub article id."
+  }
+}
