@@ -1,0 +1,36 @@
+{
+  "id": "new-page-id",
+  "type": "article",
+  "source": "github-or-wordpress",
+  "title": "Page Title",
+  "subtitle": "Optional subtitle or deck",
+  "chapter": "the-phlip-side",
+  "author": "Jolie Lizana",
+  "date": "2026-06-19",
+  "body": "# Page Title\n\nWrite the article or page text here. Inline words can be clickable with [link text](https://example.com).",
+  "imageUrl": "images/articles/the-phlip-side/new-page-id.jpg",
+  "imageAlt": "Describe the image for accessibility.",
+  "imageCaption": "Optional image caption.",
+  "imageLinkUrl": "",
+  "buttonText": "",
+  "buttonUrl": "",
+  "embedUrl": "",
+  "audioUrl": "",
+  "placement": {
+    "after": "existing-page-or-article-id"
+  },
+  "hotspots": [
+    {
+      "id": "main-link",
+      "label": "Learn more",
+      "targetType": "externalUrl",
+      "url": "https://example.com",
+      "ariaLabel": "Learn more about this page",
+      "analyticsEvent": "link_clicked"
+    }
+  ],
+  "analytics": {
+    "label": "Page Title",
+    "category": "article"
+  }
+}

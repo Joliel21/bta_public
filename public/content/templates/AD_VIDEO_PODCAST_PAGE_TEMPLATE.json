@@ -1,0 +1,34 @@
+{
+  "id": "sponsor-media-page-id",
+  "type": "media-page",
+  "source": "github-or-wordpress",
+  "title": "Sponsor, Video, or Podcast Page Title",
+  "subtitle": "Optional short description",
+  "chapter": "sponsor-pages",
+  "body": "# Sponsor, Video, or Podcast Page Title\n\nAdd descriptive text, disclosure, or sponsor copy here.",
+  "imageUrl": "images/ads/sponsor-media-page-id.jpg",
+  "imageAlt": "Describe the sponsor/video/podcast image.",
+  "imageCaption": "Optional image caption.",
+  "imageLinkUrl": "https://example.com",
+  "buttonText": "Learn More",
+  "buttonUrl": "https://example.com",
+  "embedUrl": "https://www.youtube.com/embed/example-or-podcast-embed",
+  "audioUrl": "",
+  "placement": {
+    "after": "existing-page-or-article-id"
+  },
+  "hotspots": [
+    {
+      "id": "image-click",
+      "label": "Visit sponsor or open media",
+      "targetType": "externalUrl",
+      "url": "https://example.com",
+      "ariaLabel": "Visit sponsor or open media",
+      "analyticsEvent": "ad_clicked"
+    }
+  ],
+  "analytics": {
+    "label": "Sponsor or Media Page Title",
+    "category": "ad-or-media"
+  }
+}

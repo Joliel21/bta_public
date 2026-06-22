@@ -1,0 +1,1 @@
+**The PHlip-side** brings together published columns and editorials originally written for Pulmonary Hypertension News (Bionews). These pieces explore life with pulmonary hypertension, chronic illness, advocacy, healthcare experiences, identity, grief, resilience, and the complicated reality of learning to live in a body that does not always cooperate.
