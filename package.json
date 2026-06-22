@@ -1,0 +1,10 @@
+{
+  "name": "bta-public",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-content.mjs",
+    "generate:share": "node scripts/generate-share-pages.mjs"
+  }
+}
